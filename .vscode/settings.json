@@ -1,0 +1,61 @@
+{
+    "Lua.diagnostics.globals": [
+        "StaticPopupDialogs",
+        "SlashCmdList",
+        "YES",
+        "CANCEL",
+        "GameFontHighlight",
+        "GameFontNormal",
+        "StaticPopup_Show",
+        "UIParent",
+        "CLOSE",
+        "GameFontHighlightSmall",
+        "GameFontDisableSmall",
+        "GameTooltip",
+        "GameFontNormalSmall",
+        "FONT_COLOR_CODE_CLOSE",
+        "SetDesaturation",
+        "WOW_PROJECT_ID",
+        "WOW_PROJECT_MAINLINE",
+        "ColorPickerFrame",
+        "ChatEdit_InsertLink",
+        "ChatFontNormal",
+        "OKAY",
+        "ChatFrameUtil",
+        "NOT_BOUND",
+        "ACCEPT",
+        "RAID_CLASS_COLORS",
+        "DEFAULT_CHAT_FRAME",
+        "NamePlateDriverFrame",
+        "AddonCompartmentFrame",
+        "hash_SlashCmdList",
+        "SELECTED_CHAT_FRAME",
+        "STANDARD_TEXT_FONT",
+        "Settings",
+        "StaticPopup_OnClick",
+        "GetUnitName",
+        "GetQuestDifficultyColor",
+        "SetRaidTargetIconTexture",
+        "MouseIsOver",
+        "ReloadUI"
+    ],
+    "Lua.runtime.version": "Lua 5.1",
+    "Lua.runtime.builtin": {
+        "basic": "disable",
+        "debug": "disable",
+        "io": "disable",
+        "math": "disable",
+        "os": "disable",
+        "package": "disable",
+        "string": "disable",
+        "table": "disable",
+        "utf8": "disable"
+    },
+    "Lua.workspace.library": [
+        "~\\.vscode\\extensions\\ketho.wow-api-0.22.3\\Annotations\\Core"
+    ],
+    "Lua.type.weakUnionCheck": true,
+    "Lua.diagnostics.disable": [
+        "assign-type-mismatch"
+    ]
+}
